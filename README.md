@@ -169,3 +169,7 @@ service, tests the code against those tests, this way you are aware if the chang
 # Contributing
 
 Feel free to contribute to this library by sending Github pull requests. I'm quite reactive :-)
+
+# Compatibility
+
+Compatibility patch for PHP 8.1 as provided by https://github.com/drupol/phpermutations/commit/e50d86086cd721ba1f46a554a5b188acc4ce3a0b.patch was applied.
