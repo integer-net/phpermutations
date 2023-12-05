@@ -50,7 +50,7 @@ abstract class Combinatorics
      * @return int
      *             The number of element
      */
-    public function count()
+    public function count() :int
     {
         return count($this->toArray());
     }
